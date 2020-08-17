@@ -2,6 +2,8 @@
 main:
   - title: "블로그 방문하기"
     url: https://joyunhyeok.github.io/JoWorld.github.io/
+      - title: "코딩연습"
+        url: https://joyunhyeok.github.io/JoWorld.github.io/categories/%EC%BD%94%EB%94%A9%EC%97%B0%EC%8A%B5/
   - title: "Categories"
     url: https://joyunhyeok.github.io/JoWorld.github.io/categories/
   - title: "About"
