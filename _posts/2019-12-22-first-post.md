@@ -3,7 +3,7 @@ title: "github.io blog 시작하기"
 excerpt: "gitgub blog 서비스인 github.io 블로그 시작"
 
 categories:
-  - Blog
+  - (2019.12)동계 모각코
 tags:
   - Blog
 last_modified_at: 2019-12-22
