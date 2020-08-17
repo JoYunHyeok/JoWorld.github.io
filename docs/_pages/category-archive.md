@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
 layout: categories
-permalink: /categories/코딩연습
+permalink: /categories/
 author_profile: true
 ---
