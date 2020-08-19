@@ -52,4 +52,5 @@ red -> Value
   - width : 지정한 px만큼 element의 크기가 변경
 <br>
 - 그리드의 기본 사용법
-  - update중.....
+  - div, span : block이냐 inline이냐에 따라서 골라쓴다. (디자인을 위함)
+<br>
